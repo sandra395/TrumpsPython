@@ -28,6 +28,7 @@ In this project, I wrote unit tests to ensure the correct functionality of the c
  1. Player loses – When the player’s stat is lower than the opponent’s.
  2. Player wins – When the player’s stat is higher than the opponent’s.
  3. Draw – When both players have the same stat value.
+    
 I used Python's built-in assert statement to test the functions and verify that the expected outputs match the actual results.
 
 
