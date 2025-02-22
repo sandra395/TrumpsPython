@@ -1,4 +1,4 @@
-# TrumpsPython
+# Pokémon Stats Showdown
 
 At the end of the Python & Apps short course, we were tasked with creating a mini-project in group. We were given several project ideas to choose from, and we decided to build a simple game similar to Top Trumps. The objective of our game was for players to pick a stat from their Pokémon card and compare it with the computer's Pokémon card to see who wins.
 
